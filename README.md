@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, its Purnika Malhotra this side</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnika19&label=Profile%20views&color=0e75b6&style=flat" alt="purnika19" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mlsctiet website](https://github.com/MicrosoftStudentChapter/mlsctiet)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Machine Learning , Artificial Intelligence & Deep Learning**
 
 - 💬 Ask me about **anything**
 
