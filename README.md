@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnika19" alt="purnika19" /></a> </p>
 
-- 🔭 I’m currently working on [Mlsctiet website](https://github.com/MicrosoftStudentChapter/mlsctiet)
+- 🔭 I’m currently working on [Machine Learning](https://github.com/MicrosoftStudentChapter/mlsctiet)
 
 - 🌱 I’m currently learning **Machine Learning , Artificial Intelligence & Deep Learning**
 
