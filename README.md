@@ -1,28 +1,95 @@
-<h1 align="center">Hi 👋, its Purnika Malhotra this side</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+# Hi, I'm Purnika Malhotra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purnika19&label=Profile%20views&color=0e75b6&style=flat" alt="purnika19" /> </p>
+### ✨ About Me
+I'm a Computer Science student from India with a strong interest in **Machine Learning, Deep Learning, Data Science, and Large Language Models (LLMs)**.  
+I enjoy building **intelligent, data-driven systems**, working with **classical ML, deep learning models, computer vision**, and exploring **LLM-powered applications such as RAG (Retrieval-Augmented Generation)**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnika19" alt="purnika19" /></a> </p>
+My focus is on **hands-on learning**, experimenting with data, and developing practical AI solutions that can scale to real-world use cases.
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/MicrosoftStudentChapter/mlsctiet)
+---
 
-- 🌱 I’m currently learning **Machine Learning , Artificial Intelligence & Deep Learning**
+###  I’m currently working on
+- Machine Learning & **Data Science** projects using Python  
+- **Deep Learning** models using TensorFlow / Keras & PyTorch  
+- **Computer Vision** applications using OpenCV  
+- Exploring **LLMs, NLP pipelines, and RAG-based systems**
 
-- 💬 Ask me about **anything**
+---
 
-- 📫 How to reach me **pmalhotra1_be23@thapar.edu**
+###  I’m looking to collaborate on
+- Open-source **ML / Data Science / Deep Learning** projects  
+- **LLM-powered applications** (chatbots, RAG systems, NLP tools)  
+- Real-world AI & data-driven products
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🧠 I’m looking for help with
+- Production-level **ML & DL deployment**
+- Designing scalable **RAG & LLM pipelines**
+- Best practices for end-to-end **Data Science workflows**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnika19&show_icons=true&locale=en&layout=compact" alt="purnika19" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnika19&show_icons=true&locale=en" alt="purnika19" /></p>
+###  I’m currently learning
+- Advanced **Deep Learning** architectures (CNNs, RNNs, Transformers)  
+- **LLMs, Prompt Engineering & RAG**
+- Feature engineering, model optimization & evaluation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnika19&" alt="purnika19" /></p>
+---
+
+###  Ask me about
+- Machine Learning, Deep Learning & Data Science  
+- Computer Vision with OpenCV  
+- LLM basics, RAG & NLP workflows  
+- Python for ML projects
+
+---
+
+### 🌐 Connect with me
+- 📧 **pmalhotra1_be23@thapar.edu**
+
+---
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+---
+
+✨ *Learning never stops — especially in AI.*
+
 
